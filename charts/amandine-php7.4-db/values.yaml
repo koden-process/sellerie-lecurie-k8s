@@ -1,0 +1,11 @@
+NameSpace: koden-clients
+AppName: sellerie-db
+NodePort: 32145
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: sellerie_mkg
+MariadbDbUser: sellerie
+MariadbDbPort: 3306
