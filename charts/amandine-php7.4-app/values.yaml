@@ -3,3 +3,5 @@ AppName: sellerie-app
 
 HostName: sellerie-lecurie.com
 DiskSize: 1Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
